@@ -55,7 +55,9 @@ MIT
 
 ## Author Information
 
-Pablo Crivella.
+Steamulo - www.steamulo.com
+
+Forked from [Pablo Crivella](https://github.com/pablocrivella)
 
 ## Contributors
 
